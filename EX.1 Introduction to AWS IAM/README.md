@@ -58,7 +58,13 @@ The objective of this lab is to understand how AWS Identity and Access Managemen
 - Understood the role of IAM in AWS security.  
 - Learned how IAM users, groups, and policies interact.  
 - Gained practical experience implementing role-based access control.  
-- Verified permission enforcement through real-time service testing.  
+- Verified permission enforcement through real-time service testing.
+
+## OUTPUT
+
+<img width="1187" height="630" alt="image" src="https://github.com/user-attachments/assets/7c1b487d-4df7-406e-bd83-9c51a4ce7417" />
+
+<img width="1187" height="635" alt="image" src="https://github.com/user-attachments/assets/98d8ba47-12ef-4833-b9c9-7f8761b4e604" />
 
 
 ## Conclusion
@@ -66,6 +72,8 @@ This lab provided hands-on experience with AWS IAM by demonstrating how organiza
 
 
 ## Author
-**Name:** Your Name and (Reg No)
+**Name:** GURUPARAN G and REG NO: 212224220030
+
+
 **Course:** Introduction to Cloud Computing  
 
