@@ -2,9 +2,9 @@
 
 ## Author
 
-* **Name**: ________________________________
-* **Register Number**: _____________________
-* **Date of Submission**: __________________
+* **Name**: GURUPARAN G
+* **Register Number**: 212224220030
+* **Date of Submission**: 17/03/2026
 
 ---
 
@@ -84,11 +84,11 @@ Test the database server by connecting to it locally or remotely and performing 
 
 (Write the steps you followed in your own words)
 
-1. ---
-2. ---
-3. ---
-4. ---
-5. ---
+1.Launched an EC2 instance with Amazon Linux 2 and configured key pair and security group.
+2.Enabled SSH (Port 22) and database port (3306/5432) in the security group.
+3.Connected to the EC2 instance using SSH.
+4.Installed and started the database server, then configured root password.
+5.Created a sample database, added a table, inserted records, and tested with SQL queries.
 
 ---
 
@@ -96,19 +96,24 @@ Test the database server by connecting to it locally or remotely and performing 
 
 ### Screenshot 1: EC2 Instance for Database Server
 
-(Insert Screenshot Here)
+(<img width="1915" height="1195" alt="image" src="https://github.com/user-attachments/assets/fbaa387b-0127-476b-bf90-eb40bd4b021d" />
+
 
 ---
 
 ### Screenshot 2: Database Service Running
 
-(Insert Screenshot Here)
+<img width="1919" height="1199" alt="image" src="https://github.com/user-attachments/assets/6e2e5b35-3f9e-4546-809c-5c1bfc059bac" />
+
+
+
 
 ---
 
 ### Screenshot 3: Sample Database and Table
 
-(Insert Screenshot Here)
+<img width="1918" height="1195" alt="image" src="https://github.com/user-attachments/assets/359b67b5-31ba-42c2-922c-12717cc22aeb" />
+
 
 ---
 
